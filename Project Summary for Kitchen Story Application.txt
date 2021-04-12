@@ -1,0 +1,24 @@
+Project Summary
+Company Name: Kitchen Story Inc.
+Project Prototype: Online Food Shopping Application
+Application Prototype – An online food shopping application for consumers.
+Specifications:
+VSC editor: An IDE of visual studio code editor.
+Javascript & Typescript: A programming language to develop the prototype
+Git: To connect & push files from the local system to GitHub
+GitHub: To store the application code and track versions
+Angular: Angular framework used to manipulat json objects.
+
+Description:
+The online food shopping applicaton system creates an e-commerce portal that lets people shop food/ 
+grocery items on their website.
+
+System Details:
+The e-commerce portal has these features:
+- A search form in the home page to allow entry of the food items to be purchased by the customer.
+- Based on the items details entered, it will show availabe food items with price.
+- Once the customer selects an item to purchase, the customer will be redirected to the list of avilable
+items in the next page with the completed breakout of the order and details of the payments to be made along
+with confirmation page.
+- For the above features to work, there will be an admin backend with login/logout options along 
+with add and remove food items from the list of food items with price.
